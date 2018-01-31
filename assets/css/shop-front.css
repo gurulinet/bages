@@ -1,0 +1,52 @@
+ul#products li.product .jigoshop-new-product-badge {
+	font-size:.75em;
+	text-transform: uppercase;
+	color: white;
+	background:#e74c3c;
+	padding:.2em .5em;
+	display: inline-block;
+	font-weight: 700;
+	border-radius:2px;
+}
+
+/* Various Other Colour Options */
+ul#products li.product .jigoshop-new-product-badge.blue {
+	background:#3498db;
+}
+
+ul#products li.product .jigoshop-new-product-badge.green {
+	background:#2ecc71;
+}
+
+ul#products li.product .jigoshop-new-product-badge.yellow {
+	background:#f1c40f;
+}
+
+ul#products li.product .jigoshop-new-product-badge.orange {
+	background:#f39c12;
+}
+
+ul#products li.product .jigoshop-new-product-badge.pink {
+	background:#f262e1;
+}
+
+ul#products li.product .jigoshop-new-product-badge.purple {
+	background:#8e44ad;
+}
+
+ul#products li.product .jigoshop-new-product-badge.turquoise {
+	background:#1abc9c;
+}
+
+ul#products li.product .jigoshop-new-product-badge.grey {
+	background:#bdc3c7;
+}
+
+ul#products li.product .jigoshop-new-product-badge.dark {
+	background:#34495e;
+}
+
+ul#products li.product .jigoshop-new-product-badge.light {
+	background:#ecf0f1;
+	color: #bdc3c7;
+}
